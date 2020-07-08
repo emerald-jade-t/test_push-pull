@@ -1,6 +1,6 @@
 import numpy
 
-x = 5
+x = [1,2,3]
 
 print(x)
 
